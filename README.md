@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jahirsheikh
+## 👋 Hi, I’m @jahirsheikh
 - 👀 I’m interested in programming
 - 🌱 Student of JEE at IDB-BISEW
 ![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/jahirsheikh/jahirsheikh/assets/132429134/b435730e-2a47-4fa2-b1e0-7649c02bc2af)
